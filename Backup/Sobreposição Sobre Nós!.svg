@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="3800" viewBox="0 0 1920 3800">
+  <defs>
+    <clipPath id="clip-Sobreposição_Sobre_Nós_">
+      <rect width="1920" height="3800"/>
+    </clipPath>
+  </defs>
+  <g id="Sobreposição_Sobre_Nós_" data-name="Sobreposição Sobre Nós!" clip-path="url(#clip-Sobreposição_Sobre_Nós_)">
+    <g id="Nav_bar_aberta" data-name="Nav bar aberta">
+      <g id="Fundo" transform="translate(1689 120)" fill="#464646" stroke="#707070" stroke-width="1">
+        <rect width="231" height="152" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="230" height="151" rx="4.5" fill="none"/>
+      </g>
+      <g id="Motorsport" transform="translate(-1 -175)">
+        <g id="Elipse_6" data-name="Elipse 6" transform="translate(1720 400)" fill="#fff" stroke="#707070" stroke-width="1">
+          <circle cx="8" cy="8" r="8" stroke="none"/>
+          <circle cx="8" cy="8" r="7.5" fill="none"/>
+        </g>
+        <text id="Motorsport-2" data-name="Motorsport" transform="translate(1760 413)" fill="#fff" font-size="15" font-family="Georgia"><tspan x="0" y="0">Motorsport</tspan></text>
+      </g>
+      <g id="Sobre_Nós" data-name="Sobre Nós" transform="translate(-1 -215)">
+        <g id="Elipse_6-2" data-name="Elipse 6" transform="translate(1720 400)" fill="#afafaf" stroke="#707070" stroke-width="1">
+          <circle cx="8" cy="8" r="8" stroke="none"/>
+          <circle cx="8" cy="8" r="7.5" fill="none"/>
+        </g>
+        <text id="Sobre_Nós_" data-name="Sobre Nós!" transform="translate(1760 413)" fill="#fff" font-size="15" font-family="Georgia"><tspan x="0" y="0">Sobre Nós!</tspan></text>
+      </g>
+      <g id="Home" transform="translate(0 -207)">
+        <g id="Elipse_5" data-name="Elipse 5" transform="translate(1720 352)" fill="#fff" stroke="#707070" stroke-width="1">
+          <circle cx="8" cy="8" r="8" stroke="none"/>
+          <circle cx="8" cy="8" r="7.5" fill="none"/>
+        </g>
+        <text id="Home-2" data-name="Home" transform="translate(1760 365)" fill="#fff" font-size="15" font-family="Georgia"><tspan x="0" y="0">Home</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
